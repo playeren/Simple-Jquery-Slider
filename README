@@ -1,0 +1,19 @@
+                          _                 _           _ _     _
+                         (_)               | |         | (_)   | |
+__   _____ _ __ _   _ ___ _ _ __ ___  _ __ | | ___  ___| |_  __| | ___ _ __
+\ \ / / _ \ '__| | | / __| | '_ ` _ \| '_ \| |/ _ \/ __| | |/ _` |/ _ \ '__|
+ \ V /  __/ |  | |_| \__ \ | | | | | | |_) | |  __/\__ \ | | (_| |  __/ |
+  \_/ \___|_|   \__, |___/_|_| |_| |_| .__/|_|\___||___/_|_|\__,_|\___|_|
+                 __/ |               | |
+                |___/                |_|
+
+
+Yeah. Title says it all really. Nothing fancy. At all. No event hooks. Nothing. 
+
+The script loads an array of images async after doc.ready and shows them one-by-one 
+with a nice fadeIn effect. That's it. 
+
+Inline comments should explain all the details. 
+
+Depends on Jquery 1.7.1 (not really - works fine on older versions too)
+
