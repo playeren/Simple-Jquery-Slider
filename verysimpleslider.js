@@ -7,9 +7,9 @@
 $(function () {
 
     var slides = new Array();
-        slides[0] = '/img/slide01.png';  //Change these into the paths for your imgs.
-        slides[1] = '/img/slide02.png';
-        slides[2] = '/img/slide03.png'; 
+        slides[0] = 'img/slide01.png';  //Change these into the paths for your imgs.
+        slides[1] = 'img/slide02.png';
+        slides[2] = 'img/slide03.png'; 
       //slides[n] = '/img/slideN.png';   //Yes, you can use more than 3 images. Amazing! I know! 
 
     var howMany = $(slides).length;
